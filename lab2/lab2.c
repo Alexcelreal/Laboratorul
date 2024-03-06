@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//vand Golf 4 :D
+
 int function(int x){
 	x=x-2;
 	return x;
